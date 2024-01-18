@@ -1,5 +1,5 @@
 # 💫 Olá, Eu sou o Pedro H Reis Nascimento:
-🔭 Sou estudante de programação  <br>👯 Atualmente estudo Dart, Flutter, MicrosoftSql e Iniciei C# <br><3 Estou desenvolvendo um projeto em Flutter com o intuito de melhorar a sociedade atual
+🔭 Sou estudante de programação (desenvolvimento mobile) <br>👯 Atualmente estudo Dart, Flutter, MicrosoftSql e Kotlin <br><3 Estou desenvolvendo um projeto em Flutter com o intuito de melhorar a sociedade atual
 
 
 ## 🌐 Socials:
