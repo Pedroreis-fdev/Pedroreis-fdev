@@ -1,6 +1,5 @@
 # 💫 Olá, Eu sou o Pedro H Reis Nascimento:
-🔭 Sou estudante de programação (desenvolvimento mobile) <br>👯 Atualmente estudo Dart, Flutter, MicrosoftSql e Kotlin<br>Como linguagens secundária qual tenho conhecimento básico PHP e C#<br><3 Estou desenvolvendo um projeto em Flutter com o intuito de melhorar a sociedade atual
-
+🔭 <br>👯<br><br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pedro.henriquereisnascimento) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pedroreis_ofcl/#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-nascimento-98a048291/)
